@@ -15,7 +15,11 @@
 
 ### Hi, I'm Maddy
 
-I am currently working on [GBAStranger](https://github.com/Meepster99/GBAStranger), a port of the game Void Stranger to the GBA.
+I am currently working on:
+
+[GBAStranger](https://github.com/Meepster99/GBAStranger), a port of the game Void Stranger to the GBA.
+
+[MBAACC-Extended-Training-Mode](https://github.com/fangdreth/MBAACC-Extended-Training-Mode), a training mode for MBAACC.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meepster99&hide_border=true&theme=ambient_gradient&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
