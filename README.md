@@ -21,5 +21,9 @@ I am currently working on:
 
 [MBAACC-Extended-Training-Mode](https://github.com/fangdreth/MBAACC-Extended-Training-Mode), a training mode for MBAACC.
 
+[MBAACC 2v2](https://github.com/Meepster99/CCCaster), a 2v2 mod for MBAACC.
+
+[MBAACC-Shock-Collar](https://github.com/Meepster99/MBAACC-Shock-Collar), shock collar integration for MBAACC.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meepster99&hide_border=true&theme=ambient_gradient&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
