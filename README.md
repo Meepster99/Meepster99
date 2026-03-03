@@ -25,5 +25,8 @@ I am currently working on:
 
 [MBAACC-Shock-Collar](https://github.com/Meepster99/MBAACC-Shock-Collar), shock collar integration for MBAACC.
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meepster99&hide_border=true&theme=ambient_gradient&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
+![Top-Langs](./profile/top-langs.svg)
